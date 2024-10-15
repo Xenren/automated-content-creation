@@ -5,8 +5,8 @@ The Content Automation Toolkit (CAT) is designed to be simple set of tools to cr
 
 ## Roadmap
 Key: ✔️ = Completed;  🚧 = In Progress;  📝 = TODO
-- 🚧 Example YouTube channel showcasing basic methodology
-- 📝 Importable package with easy-to-use objects for automating content creation tasks
+- ✔️ Example YouTube channel showcasing basic methodology
+- 🚧 Importable package with easy-to-use objects for automating content creation tasks
 - 📝 Expand Integrations
   - TikTok (with app approval)
   - IG/Reels
